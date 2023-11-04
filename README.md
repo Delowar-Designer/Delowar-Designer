@@ -1,12 +1,10 @@
 ![I am Software Engineering](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/272808404_229728119362841_8766696912720854433_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH1X3Ui0Y8JDggwAJSOvNdvUz2ttO5gnfVTPa207mCd9f59cJ6dZuOEVOt12CHkfUxh_Z_HXRBxkGZwJ_-EPnon&_nc_ohc=L5-7CWiJQYcAX9b5ZwC&_nc_ht=scontent.fdac157-1.fna&oh=00_AfBOTealg5Wgl1NR_4TSPAp5TvO52DC_Vtlr3IEcqPM7rQ&oe=654A3435)
 
 ### Hi there 👋, my name is Md Delowar Hossan  
-#### I am Software Engineering
-<h3 align="center">A passionate frontend developer from India</h3>
+#### 
+<h3 align="center">I am Software Engineering</h3>
 
-- 👨‍💻 All of my projects are available at [c](c)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
