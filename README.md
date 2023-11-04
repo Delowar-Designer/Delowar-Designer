@@ -42,19 +42,7 @@ Skills: Programming languages: Python/ C/ JavaScript/ Java/ C++/ C#/ Ruby/ Swift
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Delowar2004)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Delowar2004)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Delowar2004&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Delowar2004)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Delowar2004)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Delowar2004)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/Delowar2004)  
 
 
 - 🔭 I’m currently working on ...
@@ -67,7 +55,7 @@ Skills: Programming languages: Python/ C/ JavaScript/ Java/ C++/ C#/ Ruby/ Swift
 - ⚡ Fun fact: ...
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
