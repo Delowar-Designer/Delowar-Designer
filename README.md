@@ -40,8 +40,6 @@ In each of my projects, I always follow Quality, Time, Quantity, my commitment t
 - 😄 Pronouns: Delowar.Designer 
 - ⚡ Fun fact:  Programming Languages
   
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <h3 align="left"></h3>
 <p align="left">
@@ -51,18 +49,22 @@ In each of my projects, I always follow Quality, Time, Quantity, my commitment t
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Delowar-Designer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://Delowar-Designer.github.io/Git-and-GitHub-Practice-Md-Delowar-Hossan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://delowar-designer.github.io/Python-programming-practice-Md-Delowar-Hossan)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://delowar-designer.github.io/C_Programming-Practice-Md-Delowar-Hossan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/delowar-designer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/company/82771656/admin/feed/posts/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/delowar.designe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebookgaming.svg' alt='facebookgaming' height='40'>](https://www.facebook.com/groups/delowar.designer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebooklive.svg' alt='facebooklive' height='40'>](https://www.facebook.com/delowar.designer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/@delowar.designer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtubegaming.svg' alt='youtubegaming' height='40'>](https://www.youtube.com/@delowar.designerOfficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtubemusic.svg' alt='youtubemusic' height='40'>](https://www.youtube.com/watch?v=Msb1aQIoS3o&t=87s)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtubestudio.svg' alt='youtubestudio' height='40'>](https://www.youtube.com/watch?v=4EXPPZVFLnE&t=16s)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtubetv.svg' alt='youtubetv' height='40'>](https://www.youtube.com/watch?v=DyGGrj8Nu8A&list=PLPDKLM7yMj9CXlZCpWfw8MN12YbMA2i3a&index=1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtubemusic.svg' alt='youtubemusic' height='40'>](https://www.youtube.com/watch?v=kprsS_QDqhQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtubetv.svg' alt='youtubetv' height='40'>](https://www.youtube.com/watch?v=ifsR8njynWk&t=153s)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='tiktok' height='40'>](https://www.tiktok.com/@delowar.designer/video/7298254874603572482?lang=en)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='tiktok' height='40'>](https://www.tiktok.com/@delowar.designer?lang=en)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/reel/CsSwkYHu_JM/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instapaper.svg' alt='instapaper' height='40'>](https://www.instagram.com/delowar.designer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://x.com/DelowarDesigner/status/1694079929070297548?s=20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://web.telegram.org/a/#-1001695213278)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](https://join.skype.com/invite/yOjXUCjuXbrh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://delowar.designer@gmail.com) 
 </p> 
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40' height='40'></a>    
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Delowar-Designer)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delowar-Designer)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Delowar-Designer&show_icons=true&count_private=true)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Delowar2004)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://activity-graph.herokuapp.com/graph?username=Delowar-Designer)![GitHub metrics](https://metrics.lecoq.io/Delowar-Designer)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delowar2004)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Delowar-Designer)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Delowar2004&show_icons=true&count_private=true)  
+![](https://gpvc.arturio.dev/Delowar-Designer)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Delowar2004)  
 
-![GitHub metrics](https://metrics.lecoq.io/Delowar2004)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Delowar2004)  
 
-![Profile views](https://gpvc.arturio.dev/Delowar2004)  
+
